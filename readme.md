@@ -1,4 +1,4 @@
-This page is built with the template CVstap. Below is the information about CVstrap.
+This page is built with the template CVstrap. Below is the information about CVstrap.
 
 ------------------------------------
 CVstrap - Free Minimal CV HTML5/Bootstrap Template by EvenFly
